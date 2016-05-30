@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html class="no-js" lang=""><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Carlos Arguello - Estudiante de Ingenieria en Redes y Telecomunicaiones de la UCA. ">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Facebook Open Graph meta -->
+        <meta property="og:title" content="Carlos Arguello">
+        <meta property="og:description" content="Estudiante de Ingenieria en Redes y Telecomunicaciones de la UCA">
+        <meta property="og:image" content="">
+        <meta property="og:url" content="">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="http://rafaelderolez.be/images/favicon/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="http://rafaelderolez.be/images/favicon/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="http://rafaelderolez.be/images/favicon/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="http://rafaelderolez.be/images/favicon/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="http://rafaelderolez.be/images/favicon/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="http://rafaelderolez.be/images/favicon/manifest.json">
+        <link rel="mask-icon" href="http://rafaelderolez.be/images/favicon/safari-pinned-tab.svg" color="#33e5bb">
+        <link rel="shortcut icon" href="http://rafaelderolez.be/images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/images/favicon/mstile-144x144.png">
+        <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <title>Carlos Arguello</title>
+
+        <!-- Included Font Files -->
+        <link href="" rel="stylesheet" type="text/css">
+        <!-- Included CSS Files -->
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <section class="main-container">
+            <div class="blocks">
+                <div style="transform: matrix(1, 0, 0, 1, 0, 0); visibility: inherit; opacity: 1;" class="block block--left">
+                    <div class="block__inner">
+                        <div class="block-content">
+                            <h1 class="block__title">
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Hola soy Carlos</span>
+                            </h1>
+                            <h1 class="block__title">
+                                <span style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">estudiante <em>de la carrera de Redes y Telecomunicaciones de la UCA</em> <em>Managua,</em> Nicaragua</span>
+                            </h1>
+                            
+                <div class="block block--right">
+                    <div class="block__inner">
+                        <div style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);" class="content content--about">
+                            <div class="content__tag-wrapper">
+                                <h2 class="content__tag">Quien?</h2>
+                            </div>
+                            <div class="content__inner">
+                                <p>Hey que tal! Soy un aspirante programador de tiempo completo, experto en  mantenimiento de hardware y software de Computadoras</p>
+                                <p></p>
+                                <p>Se hablar de manera fluida <em>HTML5</em> <em> CSS3</em> <em> y estoy mejorando en Javascript. </em> <em>tambien se hablar Ingles! </em></p>
+                                <p></p>
+                            </div>
+                        </div>
+                        <div style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);" class="content content--projects">
+                            <div class="content__tag-wrapper">
+                                <h2 class="content__tag">Que?</h2>
+                            </div>
+                            <div class="content__inner">
+                                <div class="project">
+                                    <h3 class="project__title"><a href="http://giphy.com/gifs/oQgIhA9CG8lUY/html5" target="_blank">Wow</a></h3>
+                                    <p class="project__description">Que buena imagen, se parece a mi.
+                                    </p>
+                                </div>
+                                <div class="project">
+                                    <h3 class="project__title"><a href="http://www.ubuntu.com/desktop" target="_blank">Ubuntu</a></h3>
+                                    <p class="project__description">Abandonar Windows por Ubuntu me parecio algo interesante de probar. Linux es como Windows pero 10 veces mejor.
+                                    </p>
+                                </div>
+                                <div class="project">
+                                    <h3 class="project__title"><a href="https://tr.im/qHHQJ" target="_blank">Linus Torvalds</a></h3>
+                                    <p class="project__description">No se necesita ser experto en Matematica, solo aprender a programar y tu vida cambia.
+                                    </p>
+                                </div>
+                                <div class="project">
+                                    <h3 class="project__title"><a href="https://code.org/" target="_blank">Code.org </span></a></h3>
+                                    <p class="project__description">Programacion es para todos y todas.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);" class="content content--exp">
+                            <div class="content__tag-wrapper">
+                                <h2 class="content__tag">Donde?</h2>
+                            </div>
+                            <div class="content__inner">
+                                <div class="experience">
+                                    <h3 class="experience__agency"><a href="http://www.uca.edu.ni/">UCA</a></h3>
+                                    <p class="experience__time">Febrero 2016 — Presente</p>
+                                    <p class="experience__location">Managua, Nicaragua</p>
+                                    <p class="experience__role">Front-end Developer, Geek, Otaku.</p>
+                                    <p class="experience__location">Managua, Nicaragua</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Initialize JS Plugins/Shims -->
+        <script src="Rafael%20Derolez_files/analytics.js"></script><script src="Rafael%20Derolez_files/jquery.js"></script>
+        <script src="Rafael%20Derolez_files/CSSRulePlugin.js"></script>
+        <script src="Rafael%20Derolez_files/TweenMax.js"></script>
+        <script src="Rafael%20Derolez_files/app.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-53370316-1','auto');ga('send','pageview');
+        </script>
+
+    
+
+</body></html>
